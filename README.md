@@ -1,4 +1,13 @@
-### Hi there 👋
+### JS Games
+
+[Clone Experiment](https://epic-doughnut.github.io/clone-experiment/)
+[100% Off](https://epic-doughnut.itch.io/100-off)
+[BBQ Jetpack](https://epic-doughnut.itch.io/bbq-jetpack)
+
+
+### Music
+
+[Pansophiphilia](https://epic-doughnut.itch.io/epic-doughnut-panspermia-compositions)
 
 <!--
 **Epic-Doughnut/epic-doughnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
