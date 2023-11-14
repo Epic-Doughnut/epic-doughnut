@@ -1,11 +1,13 @@
-### JS Games
+# JS Games
 
 [Clone Experiment](https://epic-doughnut.github.io/clone-experiment/)
+
 [100% Off](https://epic-doughnut.itch.io/100-off)
+
 [BBQ Jetpack](https://epic-doughnut.itch.io/bbq-jetpack)
 
 
-### Music
+# Music
 
 [Pansophiphilia](https://epic-doughnut.itch.io/epic-doughnut-panspermia-compositions)
 
