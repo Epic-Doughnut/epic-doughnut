@@ -1,3 +1,5 @@
+Hi! I'm a game developer and a student. Here are some of the things I've made:
+
 # JS Games
 
 [Clone Experiment](https://epic-doughnut.github.io/clone-experiment/)
