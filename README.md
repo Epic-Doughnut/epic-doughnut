@@ -15,7 +15,7 @@ Hi! I'm a game developer and a student. Here are some of the things I've made:
 
 [Pansophiphilia](https://epic-doughnut.itch.io/epic-doughnut-panspermia-compositions)
 
-[Musescore](https://musescore.com/user/2783586/sheetmusic)
+[Musescore Portfolio](https://musescore.com/user/2783586/sheetmusic)
 
 <!--
 **Epic-Doughnut/epic-doughnut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
