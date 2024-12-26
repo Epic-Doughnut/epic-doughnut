@@ -22,3 +22,4 @@ Hi! I'm a game developer and a student. Here are some of the things I've made:
 
 Sherrill, J., Ng, YK. (2022). Promoting Reading Among Teens: Analyzing the Emotional Preferences of Teenage Readers. In: Virvou, M., Tsihrintzis, G.A., Bourbakis, N.G., Jain, L.C. (eds) Handbook on Artificial Intelligence-Empowered Applied Software Engineering. Artificial Intelligence-Enhanced Software and Systems Engineering, vol 3. Springer, Cham. https://doi.org/10.1007/978-3-031-07650-3_7
 
+sleev: Semiparametric Likelihood Estimation with Errors in Variables. https://cran.r-project.org/web/packages/sleev/index.html
